@@ -1,0 +1,74 @@
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+  margin-right: 3px; 
+  padding: 5px 10px; 
+}
+th {
+  background-color: grey;
+  color: white;
+}  
+table {
+  width: 100%;
+}
+td {
+    text-align: center;
+    background-color: rgb(194, 194, 194);
+}  
+.button-icon {
+  border: 1px solid grey;
+  border-radius: 5px;
+  margin-right: 5px; 
+  padding: 6px 10px;  
+  color: grey;
+  background-color: white;
+}
+.buttoniconsave {
+  border: 1px solid grey;
+  border-radius: 5px;
+  margin-right: 5px; 
+  padding: 6px 10px;  
+  color: white;
+  background-color: rgb(0, 183, 0);
+  
+}
+.buttoniconcancel {
+  border: 1px solid grey;
+  border-radius: 5px;
+  margin-right: 5px; 
+  padding: 6px 10px;  
+  color: white;
+  background-color: red;
+}
+.buttonicondelete {
+  border: 1px solid grey;
+  border-radius: 5px;
+  margin-right: 5px; 
+  padding: 6px 10px;  
+  color: white;
+  background-color: rgb(0, 0, 0);
+}
+
+form{
+  border: 2px solid grey;
+  border-radius: 10px;
+  margin-right: 5px; 
+  padding: 6px 10px; 
+  width: 300px; 
+  background-color: rgb(163, 163, 163);
+  color: white;
+} 
+
+body {
+  
+background-color: white;
+}
+
+h1 {
+color: white;
+text-align: center;
+}
+
+
+
+
